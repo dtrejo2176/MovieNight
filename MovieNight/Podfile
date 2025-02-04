@@ -1,0 +1,6 @@
+platform :ios, '18'
+use_frameworks!
+
+target 'MovieNight' do
+  pod 'Kingfisher'
+end

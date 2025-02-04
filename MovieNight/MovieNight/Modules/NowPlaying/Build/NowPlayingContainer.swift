@@ -1,5 +1,5 @@
 //
-//  HomeBuilder.swift
+//  NowPlayingContainer.swift
 //  MovieNight
 //
 //  Created by David Arturo Trejo Hernandez on 24/09/24.
@@ -7,7 +7,7 @@
 
 import UIKit
 
-struct HomeBuilder {
+struct NowPlayingContainer {
     static func build() -> UIViewController {
         let viewController = UIViewController()
         

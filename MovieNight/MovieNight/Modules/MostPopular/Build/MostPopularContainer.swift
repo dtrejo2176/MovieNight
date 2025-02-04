@@ -1,5 +1,5 @@
 //
-//  MovieDetailBuilder.swift
+//  MostPopularContainer.swift
 //  MovieNight
 //
 //  Created by David Arturo Trejo Hernandez on 24/09/24.
@@ -7,7 +7,7 @@
 
 import UIKit
 
-struct MovieDetailBuilder {
+struct MostPopularContainer {
     static func build() -> UIViewController {
         let viewController = UIViewController()
         
